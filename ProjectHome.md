@@ -1,0 +1,1 @@
+Accumulator capacity measurer based on Arduino Pro Micro
